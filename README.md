@@ -17,6 +17,10 @@ List any prerequisites or dependencies that need to be installed before can use 
 - [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 - Any http-server (This demo using npm to install)
 
+### Article
+
+- https://medium.com/@harsh.manvar111/exploring-webassembly-wasm-enhancing-application-performance-3233018b85e3
+
 ### Installation
 
 Step-by-step instructions to install the project.
