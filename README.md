@@ -32,4 +32,4 @@ Step-by-step instructions to install the project.
 
 #### Enable WASM on Docker Desktop
 
-<img width="1437" src="https://github.com/harsh4870/Docker-WASM/Assets/Screenshot 2024-06-10 at 2.17.42 PM.png">
+<img width="1437" src="https://github.com/harsh4870/Docker-WASM/Assets/Screenshot 2024-06-10.png">
